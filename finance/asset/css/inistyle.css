@@ -1,0 +1,83 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+@font-face {
+	font-family: lobster;
+	src: url(Lobster-Regular.ttf);
+}
+
+
+nav {
+	padding-top: 5px;
+	display: flex;
+	background-color: #d3d3d3;
+	justify-content: space-around;
+	padding: 10 px 0;
+}
+
+nav ul {
+	display: flex;
+	list-style: none;
+	width: 40%;
+	justify-content: space-between;
+}
+.judul {
+  width: 100%;
+  height: 150px;
+  background-color: white;
+  text-align: left;
+}
+
+.judul h1 {
+  font-family: 'EB Garamond', serif;
+  font-weight: bolder;
+  color: black;
+  font-size: 40px;
+  text-align: left;
+}
+
+.kaki {
+	padding-top: 7px;
+	position: relative;
+	left: 0;
+	bottom: 0;
+	background-color: #d3d3d3;
+	clear: both;
+	width: 100%;
+	height: 75px;
+}
+.kaki p{
+	font-size: 20px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+.kaki ul{
+	font-size: 15px;
+	margin-top: 8px;
+}
+.kotakabu {
+	width: 250px;
+	height: 90px;
+	border-radius: 15px;
+	background-color: #d3d3d3;
+	padding-top: 5px;
+	padding-left: 10px;
+}
+.kotakhijau {
+	height: 30px;
+	width: 50px;
+	background-color: #00ff00;
+	border-radius: 5px;
+}
+.kotakformkecil {
+	margin-top: 350px;
+	height: 500px;
+	width: 700px;
+	background-color: #d3d3d3;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap')
+
+
