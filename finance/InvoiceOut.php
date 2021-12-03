@@ -42,7 +42,7 @@
           </ul>
       <a href="">
       	<i class="bi bi-receipt-cutoff"></i>
-      	<span>BASH</span>
+      	<span>BAST</span>
       </a>
       <a href="">
       	<i class="bi bi-send"></i>
